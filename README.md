@@ -34,7 +34,7 @@
   <h2>🚀 Установка</h2>
 
   <h3>1. Клонируйте репозиторий</h3>
-  <pre><code>git clone https://github.com/hellround-dev/media-tg-bot.git
+  <pre><code>git clone https://github.com/hellround-dev/media_tg_bot.git
 cd media-tg-bot</code></pre>
 
   <h3>2. Создайте и активируйте виртуальное окружение (рекомендуется)</h3>
