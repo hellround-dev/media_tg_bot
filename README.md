@@ -63,7 +63,10 @@ venv\Scripts\activate</code></pre>
 
   <h3>5. Настройте переменные окружения</h3>
   <p>Создайте в корне проекта файл <code>.env</code> и вставьте туда свой токен:</p>
-  <pre><code>TOKEN="123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ"</code></pre>
+  <li>Для Windows (Command Prompt / CMD):</li>
+  <code>echo TOKEN="ваш_токен_от_botfather" > .env</code>
+  <li>Для macOS / Linux:</li>
+  <code>echo 'TOKEN="ваш_токен_от_botfather"' > .env</code>
 
   <hr>
 
