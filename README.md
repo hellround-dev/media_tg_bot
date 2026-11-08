@@ -26,6 +26,7 @@
   <ul>
     <li>Python <strong>3.9+</strong></li>
     <li>Установленный пакетный менеджер <code>pip</code></li>
+    <li><strong>Установленный и подключенный сервис VPN или proxy</strong></li>
     <li>Аккаунт Telegram и бот, созданный через <a href="https://t.me/BotFather" target="_blank">@BotFather</a></li>
   </ul>
 
