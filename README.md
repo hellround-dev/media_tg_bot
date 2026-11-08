@@ -38,7 +38,7 @@
 cd media_tg_bot</code></pre>
 
   <h3>2. Создайте и активируйте виртуальное окружение (рекомендуется)</h3>
-  <pre><code>python -m venv venv
+  <pre><code>python3 -m venv venv
 
 # macOS / Linux
 source venv/bin/activate
